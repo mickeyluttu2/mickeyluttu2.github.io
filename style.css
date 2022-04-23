@@ -215,6 +215,13 @@ header .navbar ul li a:hover {
   padding: 0 .5rem;
 }
 
+.about .row .skills {
+  flex: 1 1 48rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .about .row .counter {
   flex: 1 1 48rem;
   display: flex;
