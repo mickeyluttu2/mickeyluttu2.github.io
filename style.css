@@ -282,6 +282,7 @@ header .navbar ul li a:hover {
   font-size: 1.4rem;
   color: #eee;
   padding: 1rem 0;
+  text-transform: none;
 }
 
 .education .box-container .box i {
